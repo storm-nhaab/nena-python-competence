@@ -41,7 +41,7 @@ Think about what you want to get from this course. Think specifically on how Pyt
 
 ## Inspiration
 
-Python can do many many things. Where Python shines is as a tool for data exploration, model building, and task automater.
+Python can do many many things. Where Python shines is as a tool for data exploration, model building, and task automation.
 
 A few usefull python libraries are listed here:
 
