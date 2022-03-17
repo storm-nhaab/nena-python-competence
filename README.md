@@ -24,7 +24,9 @@ Before you take the course you should prepare the follwing:
 ## Course literature
 
 This course will have a course book which covers most of what the course will cover.
-The book is called [Python For Excel](https://www.amazon.com/Python-Excel-Environment-Automation-Analysis-ebook-dp-B08Y3TKQ5V/dp/B08Y3TKQ5V/ref=mt_other?_encoding=UTF8&me=&qid=) ![alt_text](https://s1.adlibris.com/images/59291723/python-for-excel.jpg)
+The book is called [Python For Excel](https://www.amazon.com/Python-Excel-Environment-Automation-Analysis-ebook-dp-B08Y3TKQ5V/dp/B08Y3TKQ5V/ref=mt_other?_encoding=UTF8&me=&qid=) 
+
+![alt_text](https://s1.adlibris.com/images/59291723/python-for-excel.jpg)
 
 You can get the book as an ebook on [Amazon](https://www.amazon.com/Python-Excel-Environment-Automation-Analysis-ebook-dp-B08Y3TKQ5V/dp/B08Y3TKQ5V/ref=mt_other?_encoding=UTF8&me=&qid=) or get a physical copy from [Adlibris](https://www.adlibris.com/no/bok/python-for-excel-9781492081005).
 
