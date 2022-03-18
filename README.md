@@ -22,6 +22,7 @@ __Reading before the session__: *Chapter 2* of the course book. Focus on the cha
 - We will cover the use of the Windows Terminal to navigate the windows file system.
 - Start up Jupyter Lab and VS Code. <br>
 - Reading python documentation.
+- Using GitHub and basic git with GitHub desktop.
 
 ### Week 2 (26/04) : Basic Python syntax.
 __Reading before the session__: *Chapter 3 pages 43-67*. Before the session I expect you to know *pages 43-49*. These will not be covered in the session.
