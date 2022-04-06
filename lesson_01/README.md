@@ -15,3 +15,8 @@ We will use windows terminal to:
 
 To navigate the Windows Terminal we use a set of commands. We will go over these in the course.
 For future reference, [here is a good short video](https://www.youtube.com/watch?v=FpRGRLI8Fy8) covering the commands we have covered.
+
+## JupyterLab
+
+
+## VS Code
