@@ -16,6 +16,11 @@ We will use windows terminal to:
 To navigate the Windows Terminal we use a set of commands. We will go over these in the course.
 For future reference, [here is a good short video](https://www.youtube.com/watch?v=FpRGRLI8Fy8) covering the commands we have covered.
 
+## Github Desktop
+
+Github Desktop is the tool we use to share our notebooks and scripts. It uploads your scripts to your GitHub page where
+other people can 
+
 ## JupyterLab
 
 JupyterLab is a great tool for doing anything data analysis. With it, you create what is referred to as notebooks. You can use them to visualize data, work with excel files, run python scripts and write python code wich runs directly in the notebook, you can even write complete publishable books with JupyterLab.
@@ -36,3 +41,26 @@ programming languages and has excellent debugging tools.
 
 - VS Code is a great code editor and is used to view large code files and run large programs. You will typically use it
   to edit scripts.
+  
+  
+# Homework  
+  
+## Assignment: Create a github repository and share a jupyter notebook.
+
+You will need to create a Github repository using Github Desktop. In here you will
+create a jupyter notebook in which you are tasked to:
+
+1) Write 3 types of headers.
+2) Write a mathematical expression or equation (tip: use MS Words equation editor and convert the equation to LaTex and copy pase into your notebook).
+3) Write a bullet list.
+4) Include a hyper-link to a website.
+5) Include a picture, either from another webpage or from a local file.
+
+To practice markdown you will for homework also be going through the MarkDown tutorial which you can
+find in JupyterLab by going to: 
+
+Help>Markdown Reference
+
+You will run this tutorial directly from within JupyterLab. 
+
+
